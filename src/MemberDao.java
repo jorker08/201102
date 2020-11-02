@@ -11,7 +11,7 @@ public class MemberDao {
 //		Article a1 = new Article(1, "안녕하세요", "내용1", "익명", getCurrentDate());
 //		Article a2 = new Article(2, "반갑습니다.", "내용2", "익명", getCurrentDate());
 //		Article a3 = new Article(3, "안녕", "내용3", "익명", getCurrentDate());
-//sdfsdfsdf
+//
 //		articles.add(a1);
 //		articles.add(a2);
 //		articles.add(a3);
